@@ -1,6 +1,6 @@
 # Pizarra Colaborativa
 
-Una aplicación web para dibujar en tiempo real con tus amigos o pareja. Dibuja, colabora y comparte momentos creativos de forma sencilla y divertida.
+Una aplicación web para dibujar en tiempo real con tus amigos(solo para dos personas).
 
 ## Características
 
@@ -9,7 +9,7 @@ Una aplicación web para dibujar en tiempo real con tus amigos o pareja. Dibuja,
 - **Herramientas de dibujo**: Lápiz, borrador, colores, grosores y estilos (normal, pixel, punteado).
 - **Exportar dibujos**: Guarda como PNG, JPG o PDF.
 - **Interfaz responsive**: Funciona en desktop y móvil.
-- **Límite de 2 usuarios**: Ideal para sesiones íntimas.
+- **Límite de 2 usuarios**
 
 ## Tecnologías Usadas
 
